@@ -1,5 +1,5 @@
 
-# PROJECT2 : 🧠 Customer Segmentation Analysis
+# PROJECT : 🧠 Customer Segmentation Analysis
 
 > ✅ Level 1- Task 2
 
